@@ -4,6 +4,7 @@ I am interested in game development, web and mobile app development, as well as 
 If you would like to contact me for collaborations or such, contact me at cagomezgdev@gmail.com
 
 Currently the languages I use in decending order: C++, C#, Java, Python
+
 Currently looking into: HTML, CSS, JavaScript
 
 <!---
