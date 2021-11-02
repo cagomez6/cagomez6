@@ -3,6 +3,9 @@ Currently open to exploring different branches of computer science.
 I am interested in game development, web and mobile app development, as well as learning how to make discord bots.
 If you would like to contact me for collaborations or such, contact me at cagomezgdev@gmail.com
 
+Currently the languages I use in decending order: C++, C#, Java, Python
+Currently looking into: HTML, CSS, JavaScript
+
 <!---
 cagomez6/cagomez6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
