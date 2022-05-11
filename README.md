@@ -3,7 +3,7 @@ Currently open to exploring different branches of computer science.
 I am interested in game development, web and mobile app development, as well as learning how to make discord bots.
 If you would like to contact me for collaborations or such, contact me at cagomezgdev@gmail.com
 
-Currently the languages I use in decending order: C++, C#, Java, Python
+Currently the languages I use in decending order: Java, C#, C++, Python
 
 Currently looking into: HTML, CSS, JavaScript
 
