@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Carlos A. Gomez</h1>
-<h3 align="center">A graduate from UCI interested in game and web development.</h3>
+<h3 align="center">A computer game science graduate from UCI. Interested in software engineering with a focus on web and game applications.</h3>
 
 - Resume, Projects and other info available at: [cagomez.io](https://www.cagomez.io/)
 
