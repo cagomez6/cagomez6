@@ -1,7 +1,40 @@
-<h1 align="center">Hey, I'm Carlos A. Gomez</h1>
-<h3 align="center">A computer game science graduate from UCI. Interested in software engineering with a focus on web and game applications.</h3>
+Hey there! 👋 I'm Carlos Gomez, a dynamic and creative computer game science graduate from the University of California, Irvine. My love for art and technology drive me to always be on a grind to expand my reach in the world of software engineering.
 
-- Resume, Projects and other info available at: [cagomez.io](https://www.cagomez.io/)
+## 🎓 Education
+- **Bachelor of Science in Computer Game Science**
+  - *University of California, Irvine*
+  - GPA: 3.88
+  - Aug. 2019 – June 2022
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 💻 Technical Skills
+- **Languages:** Python, Java, C++, C#, JavaScript, HTML/CSS, SQL (mySQL, PostgreSQL), noSQL (mongodb)
+- **Frameworks:** React, Node.js, JUnit
+- **Developer Tools:** Git, GitHub, VS Code, Postman, Eclipse
+- **Libraries:** Bootstrap, NumPy, Pandas, jQuery
+
+## 🚀 Noteworthy Projects
+### Cloudy Happiness | Full Stack E-commerce Web App (Sep 2021 – Dec 2021)
+- Developed from scratch with a 5-member team
+- Integrated Shopify API into Express backend
+- Created responsive React and Bootstrap frontend
+
+### Footworkz | Responsive E-commerce Web App (Mar 2022 – Jun 2022)
+- Led a 3-member team in development
+- Implemented front-end with HTML, CSS, and React
+- Collaborated on back-end using Express, Sequelize, and MySQL
+
+### Checkers AI | Monte Carlo Algorithm Implementation (Sep 2021 – Dec 2021)
+- Implemented AI using Monte Carlo algorithm
+- Optimized for a minimum 75% win rate within 7 seconds per turn
+
+### Monster Cube | Online Multiplayer Horror Game (Jan 2021 – Jun 2021)
+- Collaborated with a 5-member team to add online functionality
+- Adapted game mechanics based on player feedback
+
+## 👾 Activities
+### Video Game Development Club (Sep 2020 – Oct 2021)
+- Game Programmer; Developer
+- Collaborated in small teams to develop video games using C# and Unity
+- Mentored new developers by reviewing code and providing troubleshooting assistance
+
+Feel free to explore my repositories and join me on this coding adventure! Let's connect and create something amazing together. 🚀✨
